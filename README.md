@@ -21,6 +21,9 @@ Resprecto a los cambios he cambiado ls fondos de pantalla que venian predetermin
 
 La primera página te explica en que consiste el premio y sus requisitos para poder ganarlo.
 
+2. ¿PORQUE ES IMPORTANTE EL PREMIO THE BEST?
+
+Consiste en explicar brevemente que es lo mas impoortante de este premio.
 
 2. NOMINADOS AL PREMIO
 
@@ -28,11 +31,11 @@ En el segundo apartade sale una pequeña definicion de los nominados.
 
 3. - GANADOR DEL PREMIO
 
-Nada más que añadir nada mas el ganador
+Nada más que añadir nada mas el ganador.
 
 4. GANADORES ANTERIORES (2016-2023)
 
-Y finalmente por obviedad los ganadores anteriores como Messi, Cristiano Ronaldo o Luka Modrić
+Y finalmente por obviedad los ganadores anteriores como Messi, Cristiano Ronaldo o Luka Modrić.
 
 
 
