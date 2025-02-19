@@ -37,6 +37,6 @@ Nada más que añadir nada mas el ganador.
 
 Y finalmente por obviedad los ganadores anteriores como Messi, Cristiano Ronaldo o Luka Modrić.
 
-![imatge](https://github.com/user-attachments/assets/166eaef0-befe-45fb-9626-56810e59259f)
+![imatge](https://github.com/user-attachments/assets/d0cb9a27-0d7b-438e-8baf-03c912189c8c)
 
 
