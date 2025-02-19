@@ -36,8 +36,7 @@ Nada más que añadir nada mas el ganador.
 4. GANADORES ANTERIORES (2016-2023)
 
 Y finalmente por obviedad los ganadores anteriores como Messi, Cristiano Ronaldo o Luka Modrić.
-
-![imatge](https://github.com/user-attachments/assets/d0cb9a27-0d7b-438e-8baf-03c912189c8c) ![imatge](https://github.com/user-attachments/assets/c1edcdbe-c182-402f-8959-2d1b873ec974)
+![imatge](https://github.com/user-attachments/assets/c1edcdbe-c182-402f-8959-2d1b873ec974)
 
 
 
