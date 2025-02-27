@@ -40,5 +40,9 @@ Y finalmente por obviedad los ganadores anteriores como Messi, Cristiano Ronaldo
 
 ![imatge](https://github.com/user-attachments/assets/c1edcdbe-c182-402f-8959-2d1b873ec974)
 
+**PLUGINS**
 
+Los plugins descargados en mi pagina web son: 
 
+- Classic Editor
+- Polylang
